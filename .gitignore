@@ -1,0 +1,6 @@
+.remote-sync.json
+.idea/
+.sftp-config.json
+/ebillReports.php
+/nbproject/private/
+/gcm/var/
